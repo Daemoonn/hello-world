@@ -8,5 +8,7 @@ int main()
 	cout << "Hello World!" << endl;
 	cout << v1.0 << endl;
 	//test_test
+	//del test
+	//del test2
 	return 0;
 }
