@@ -16,5 +16,6 @@ int main()
 	cout << "branch testing" << endl;
 	cout << "do sth" << endl;
 	cout << "merge conflict solving" << endl;
+	cout << "ready to merged into master" << endl;
 	return 0;
 }
