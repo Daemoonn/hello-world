@@ -15,6 +15,6 @@ int main()
 	//testing branch, create branch testing
 	cout << "branch testing" << endl;
 	cout << "do sth" << endl;
-	cout << "this is conflicta" << endl;
+	cout << "merge conflict solving" << endl;
 	return 0;
 }
