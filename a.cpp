@@ -17,5 +17,6 @@ int main()
 	cout << "do sth" << endl;
 	cout << "merge conflict solving" << endl;
 	cout << "ready to merged into master" << endl;
+	cout << "did sth" << endl;
 	return 0;
 }
