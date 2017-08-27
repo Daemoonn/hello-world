@@ -18,5 +18,6 @@ int main()
 	cout << "merge conflict solving" << endl;
 	cout << "ready to merged into master" << endl;
 	cout << "did sth" << endl;
+	cout << "ready to push new testing branch to origin" << endl;
 	return 0;
 }
